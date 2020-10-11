@@ -13,7 +13,7 @@ p{font-size:24px;
 <h2><a href="https://mp.weixin.qq.com/s/pVP_C0qmNIFdmTKqN2bl7A">Here!</a></h2>
 </p>
 <p>作为来自河南的高考生，该生特长不多，只是对声乐有一点了解。平时喜欢唱唱歌、唱唱歌、唱唱歌。尤其喜爱古风，正在努力地寻找小伙伴。
-<img src="头像.jpg/>
+<img src="头像.jpg"/>
 <p>该生思想觉悟较高，具有强烈的爱国情怀。世界观始终与党和人民保持一致，代表着新时代爱国青年的主流思想。曾多次高唱红歌，也阅读过共产党宣言等社会主义著作，立志报效祖国。</p>
 <h4>Do you know he is cute?</h4>
-<img src="
+<img src="CPR2.png"/>
