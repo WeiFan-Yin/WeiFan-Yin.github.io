@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/WeiFan-Yin/WeiFan-Yin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WeiFan-Yin/WeiFan-Yin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<style>
+p{font-size:24;
+}
+</style>
+<body bgcolor="FF6699">
+<h1 align="center">尹威凡的个人简介</h1>
+<p>请大家注意，迎面走来的是尹威凡小哥哥。他身长八尺有余，而形貌昳丽（bushi）,有亿点点黑，平易近人，喜欢与别人交流。</p>
+<p>这名同学生长于河南周口这样一个五线小城市，除了学习成绩一直较好之外，其成长经历与常人无异。天有不测风云，该生中考失利，进入一县城高中就读，而入燕园之抱负不曾改变。数学的弱势让该生饱经沧桑，高考的略微失利也改变了他的人生轨迹。不过其入燕园之梦已遂，料得此孺子定将在燕园中继续挥洒汗水，砥砺前行。</p>
+<p>一入燕园门，一生北大人。进入燕园后，该生尝试新事物，挑战自己的能力。军训期间加入国旗班来增加训练量和体验感，返校后参与医预主席团学习部部长竞选，无奈失利，但最终进入学习部成为一名干事，并在十一假期中推出自己的第一篇推文。或许前方的路尚不明晰，该生也一定会勇往直前。</br>
+<img src="file:///C:/Users/dd/Pictures/Saved%20Pictures/%E5%86%9B%E8%AE%AD%E5%9B%BD%E6%97%97%E7%8F%AD.jpg" width="512" height="356"/>
+<img src="file:///C:/Users/dd/Desktop/%E5%AD%A6%E4%B9%A0%E9%83%A8/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202009301950122.jpg"width="512" height="356"/></br>
+<h2><a href="https://mp.weixin.qq.com/s/pVP_C0qmNIFdmTKqN2bl7A">Here!</a></h2>
+</p></br></br></br></br>
+<p>作为来自河南的高考生，该生特长不多，只是对声乐有一点了解。平时喜欢唱唱歌、唱唱歌、唱唱歌。尤其喜爱古风，正在努力地寻找小伙伴。</br>
+<img src="file:///C:/Users/dd/Pictures/Saved%20Pictures/%E5%A4%B4%E5%83%8F.jpg"width="512" height="512"/></p></br></br></br>
+<p>该生思想觉悟较高，具有强烈的爱国情怀。世界观始终与党和人民保持一致，代表着新时代爱国青年的主流思想。曾多次高唱红歌，也阅读过共产党宣言等社会主义著作，立志报效祖国。</p></br>
+<h4>Do you know he is cute?</h4>
+</body>
+</html>
